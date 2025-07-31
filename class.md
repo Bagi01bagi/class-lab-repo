@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Bagila  
+- Certification: Ussipbekova Bagila
 
 ## Instructions
 Please replace the placeholders with your details:
